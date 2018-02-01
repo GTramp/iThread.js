@@ -1,6 +1,5 @@
 # iThread.js
 Promise Thread Webworker Async
-# PThread.js
 
 Promise in webworker
 
